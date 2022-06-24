@@ -19,4 +19,5 @@
 ![data_image](https://github.com/lykkelig/World_Weather_Analysis/blob/main/Weather_Database/DataBase.png)
 * The second step looked for hotels within 5000 meters.
 ![dataframe_image](https://github.com/lykkelig/World_Weather_Analysis/blob/main/Vacation_Search/Search.png)
-* The final step was to create a itinerary map.
+* The final step was to create an itinerary.
+![hotels_image]https://github.com/lykkelig/World_Weather_Analysis/blob/main/Vacation_Itinerary/Hotels.png
