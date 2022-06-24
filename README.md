@@ -7,12 +7,16 @@
 # Module 19 - WeatherPy with Python API's
 
 ## Overview of Project
-This was a fun project to randomly select a vacation spot based on minimum and maximum temperatures.
+* This was a fun project to randomly select a vacation spot based on minimum and maximum temperatures.
 
 ## Analysis Three Jupyter notebooks
-* [Atomic:] Generate a random list of latitude and longitude and write to a CSV file.
-* [Atomic:] Use the random list above to filter based on temperature criteria.
-* [Atomic:] Select those locations which have hotels within the specified radius.
+* Generate a random list of latitude and longitude and write to a CSV file.
+* Use the random list above to filter based on temperature criteria.
+* Select those locations which have hotels within the specified radius.
 
 ## Summary  End Result
-* [Atomic:] There appears to be an issue with my Google API key, I am getting a message that it has expired and I need to add a new credit card number. I do not want to get charged for this so I completed the project with out the hotel data. 
+* Random cities were selected by latitude and longitude and written to a CSV file.
+![data_image](https://github.com/lykkelig/World_Weather_Analysis/blob/main/Weather_Database/DataBase.png)
+* The second step looked for hotels within 5000 meters.
+![dataframe_image](https://github.com/lykkelig/World_Weather_Analysis/blob/main/Vacation_Search/Search.png)
+* The final step was to create a itinerary map.
