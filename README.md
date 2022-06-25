@@ -1,10 +1,10 @@
 # UofM-Data-Viz-Analytics-Boot-Camp
 # Ron Hankey - University of Minnesota Data Visualization and Analytics Boot Camp
-#                   Assignment: Challenge 19 - World_Weather_Analysiss
+#                   Assignment: Challenge 6 - World_Weather_Analysis
 #                           Student: Ron Hankey
 #                           Date: June 15, 2022
 
-# Module 19 - WeatherPy with Python API's
+# Module 6 - WeatherPy with Python API's
 
 ## Overview of Project
 * This was a fun project to randomly select a vacation spot based on minimum and maximum temperatures.
@@ -20,4 +20,4 @@
 * The second step looked for hotels within 5000 meters.
 ![dataframe_image](https://github.com/lykkelig/World_Weather_Analysis/blob/main/Vacation_Search/Search.png)
 * The final step was to create an itinerary.
-![hotels_image]https://github.com/lykkelig/World_Weather_Analysis/blob/main/Vacation_Itinerary/Hotels.png
+![hotels_image](https://github.com/lykkelig/World_Weather_Analysis/blob/main/Vacation_Itinerary/Hotels.png)
